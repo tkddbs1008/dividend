@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "scheduler.scrap.yahoo",
+    "type": "java.lang.String",
+    "description": "A description for 'scheduler.scrap.yahoo'"
+  },
+  {
+    "name": "spring.jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jwt.secret'"
+  }
+]}
